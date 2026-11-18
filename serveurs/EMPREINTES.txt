@@ -1,4 +1,5 @@
 # Empreintes SSH (à comparer au premier « ssh » vers chaque serveur)
+eco01 : SHA256:/NXbmLUFBu18RiO55GzYGIQN8zgR7V+RN8PcIICOltM
 pbs01 : SHA256:0PeplQMt7qzLXjDTL/oMogyoD5jC1WrFIIFmsXclvds
 sd-185908.dedibox.fr : SHA256:ILE8a3k4fPhsqbrSV7Uq1UqpcsJKhF/Xxx7TCedO6GY
 web02 : SHA256:qCGhwwYT/E36C3Cl4dKVoUdRlmNWPYF9S8aTCBSpjtY
