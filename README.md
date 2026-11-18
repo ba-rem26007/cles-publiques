@@ -18,7 +18,7 @@ curl -fsSL https://raw.githubusercontent.com/ba-rem26007/cles-publiques/main/ssh
 ## Autoriser l'ancien serveur web (WEB01, 92.222.113.170) — migration eco-gobelets
 
 ```
-curl -fsSL https://raw.githubusercontent.com/ba-rem26007/cles-publiques/main/ssh-utilisateurs/elrems@WEB01.pub >> ~/.ssh/authorized_keys
+curl -fsSL https://raw.githubusercontent.com/ba-rem26007/cles-publiques/main/ssh-utilisateurs/elrems@WEB01-ed25519.pub >> ~/.ssh/authorized_keys
 ```
 
 ## Faire confiance aux serveurs avant la première connexion
