@@ -15,6 +15,12 @@ qu'on peut diffuser sans risque. Les secrets et la configuration sont dans un d�
 curl -fsSL https://raw.githubusercontent.com/ba-rem26007/cles-publiques/main/ssh-utilisateurs/root@sd-proxmox-1.pub >> ~/.ssh/authorized_keys
 ```
 
+## Autoriser l'ancien serveur web (WEB01, 92.222.113.170) — migration eco-gobelets
+
+```
+curl -fsSL https://raw.githubusercontent.com/ba-rem26007/cles-publiques/main/ssh-utilisateurs/elrems@WEB01.pub >> ~/.ssh/authorized_keys
+```
+
 ## Faire confiance aux serveurs avant la première connexion
 
 ```
